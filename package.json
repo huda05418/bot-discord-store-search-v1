@@ -1,0 +1,22 @@
+{
+  "name": "search-bot",
+  "version": "1.0.0",
+  "description": "bebas remake bro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "store"
+  ],
+  "author": "SEARCH",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "mysql2": "^3.16.0"
+  }
+}
